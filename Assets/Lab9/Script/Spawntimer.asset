@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4394857a22b309c46a81426e7c2c52f8, type: 3}
   m_Name: Spawntimer
   m_EditorClassIdentifier: 
-  m_Prefab: {fileID: 0}
+  m_Prefab: {fileID: 5463217912424401199, guid: 6e7877af4b9765141a96993c221fbd01, type: 3}
